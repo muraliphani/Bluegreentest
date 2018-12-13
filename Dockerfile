@@ -1,5 +1,5 @@
 # Dockerfile
-FROM demo/oracle-java:8
+FROM  phusion/baseimage:0.9.17
 
 ENV MAVEN_VERSION 3.3.9
 
